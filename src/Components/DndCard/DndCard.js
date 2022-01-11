@@ -50,10 +50,10 @@ export default function DndCard() {
         ) : (
           <Draggable disabled={toggle} onStop={onStop}>
             <Tooltip title="Drag Me" placement="top">
-              <Card className={classes.card} variant="contained">
+              <Card className={classes.card}>
                 <CardContent className={classes.content}>
-                  <Typography color="Primary">Hello, Good Evenning</Typography>
-                  <Typography color="Primary">How are you ?</Typography>
+                  <Typography color="primary">Hello, Good Evenning</Typography>
+                  <Typography color="primary">How are you ?</Typography>
                   <Typography color="primary">
                     This is simple Card with drag and drop feature
                   </Typography>
