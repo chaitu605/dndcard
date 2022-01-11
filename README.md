@@ -4,7 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Copy or Clone the Project Repository into your local machine using command git clone and pasting the copied Url.
+## Copy or Clone the Project Repository into your local machine using command git clone and pasting the copied Url.
 
 ## Available Scripts
 
